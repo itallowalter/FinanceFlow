@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow - Offline Control",
+  "description": "A professional, offline-first financial management SPA. Features rigorous separation of cash flow and reserves, atomic transfers, goal tracking, and debt management with a sleek dark mode UI.",
+  "requestFramePermissions": []
+}
